@@ -1,0 +1,23 @@
+#accordeon {
+    width: 650px;
+    border: 1px solid white;
+    box-shadow: none;
+    margin: 10px;
+   
+
+    
+}
+
+.head {
+    padding: 5px 10px;
+    background: darkgray;
+    cursor: pointer;
+    border: 1px solid white;
+}
+
+.body1 {
+    padding: 10px;
+    border-bottom: none;
+    margin-bottom: 5px;
+    display: none;
+}
